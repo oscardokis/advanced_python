@@ -1,4 +1,4 @@
-
+# Closures tienen que ser anidados, devolver la funcion anidada
 def make_division_by(d):
     def numerator(n):
         return n/d

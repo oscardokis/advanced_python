@@ -9,7 +9,7 @@ def is_primo(number:int) -> bool:
     return contador == 0
     
 def run():
-    number = int(input("Write a number to know if is a primo: "))
+    number = int(input("Write a number to know if it is a primo: "))
     
     print(is_primo(number))
 
